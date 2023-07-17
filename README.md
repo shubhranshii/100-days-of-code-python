@@ -20,8 +20,10 @@
 - [Day 008](https://github.com/shubhranshii/100-days-of-code-python/tree/main/day%201-14/day%208)- Caesar Cipher
 - [Day 009](https://github.com/shubhranshii/100-days-of-code-python/tree/main/day%201-14/day%209)- Secret Auction 
 - [Day 010](https://github.com/shubhranshii/100-days-of-code-python/tree/main/day%201-14/day%2010)- Calculator
-
-
+- [Day 011](https://github.com/shubhranshii/100-days-of-code-python/tree/main/day%201-14/day%2011)- Blackjack Capstone Project
+- [Day 012](https://github.com/shubhranshii/100-days-of-code-python/tree/main/day%201-14/day%2012)- Number Guessing Game
+- [Day 013](https://github.com/shubhranshii/100-days-of-code-python/tree/main/day%201-14/day%2013)- Debugging
+- [Day 014](https://github.com/shubhranshii/100-days-of-code-python/tree/main/day%201-14/day%2014)- Higher Lower Game Project
 ## Tools and Technologies
 
 Throughout this comprehensive course, we cover a massive amount of tools and technologies, including:
