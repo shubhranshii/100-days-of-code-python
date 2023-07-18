@@ -18,12 +18,17 @@
 - [Day 006](https://github.com/shubhranshii/100-days-of-code-python/tree/main/day%201-14/day%206)- Reeborg's World
 - [Day 007](https://github.com/shubhranshii/100-days-of-code-python/tree/main/day%201-14/day%207)- Hangman
 - [Day 008](https://github.com/shubhranshii/100-days-of-code-python/tree/main/day%201-14/day%208)- Caesar Cipher
-- [Day 009](https://github.com/shubhranshii/100-days-of-code-python/tree/main/day%201-14/day%209)- Secret Auction 
+- [Day 009](https://github.com/shubhranshii/100-days-of-code-python/tree/main/day%201-14/day%209)- Secret Auction Project
 - [Day 010](https://github.com/shubhranshii/100-days-of-code-python/tree/main/day%201-14/day%2010)- Calculator
 - [Day 011](https://github.com/shubhranshii/100-days-of-code-python/tree/main/day%201-14/day%2011)- Blackjack Capstone Project
 - [Day 012](https://github.com/shubhranshii/100-days-of-code-python/tree/main/day%201-14/day%2012)- Number Guessing Game
 - [Day 013](https://github.com/shubhranshii/100-days-of-code-python/tree/main/day%201-14/day%2013)- Debugging
 - [Day 014](https://github.com/shubhranshii/100-days-of-code-python/tree/main/day%201-14/day%2014)- Higher Lower Game Project
+- [Day 015](https://github.com/shubhranshii/100-days-of-code-python/tree/main/day%2015-31%20Intermediate/day%2015)- Coffee Machine Project
+- [Day 016](https://github.com/shubhranshii/100-days-of-code-python/tree/main/day%2015-31%20Intermediate/day%2016)- Coffee Machine OOP Project
+- [Day 017](https://github.com/shubhranshii/100-days-of-code-python/tree/main/day%2015-31%20Intermediate/day%2017)- Quiz Game Project
+- [Day 018](https://github.com/shubhranshii/100-days-of-code-python/tree/main/day%2015-31%20Intermediate/day%2018)- Hirst Painting Project
+- [Day 019](https://github.com/shubhranshii/100-days-of-code-python/tree/main/day%2015-31%20Intermediate/day%2019)- Turtle Race Project
 ## Tools and Technologies
 
 Throughout this comprehensive course, we cover a massive amount of tools and technologies, including:
