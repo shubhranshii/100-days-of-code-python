@@ -24,6 +24,7 @@
 - [Day 012](https://github.com/shubhranshii/100-days-of-code-python/tree/main/day%201-14/day%2012)- Number Guessing Game
 - [Day 013](https://github.com/shubhranshii/100-days-of-code-python/tree/main/day%201-14/day%2013)- Debugging
 - [Day 014](https://github.com/shubhranshii/100-days-of-code-python/tree/main/day%201-14/day%2014)- Higher Lower Game Project
+## 👩‍💻Intermediate
 - [Day 015](https://github.com/shubhranshii/100-days-of-code-python/tree/main/day%2015-31%20Intermediate/day%2015)- Coffee Machine Project
 - [Day 016](https://github.com/shubhranshii/100-days-of-code-python/tree/main/day%2015-31%20Intermediate/day%2016)- Coffee Machine OOP Project
 - [Day 017](https://github.com/shubhranshii/100-days-of-code-python/tree/main/day%2015-31%20Intermediate/day%2017)- Quiz Game Project
