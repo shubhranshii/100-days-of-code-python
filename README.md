@@ -33,6 +33,8 @@
 - [Day 020](https://github.com/shubhranshii/100-days-of-code-python/tree/main/day%2015-31%20Intermediate/day%2020-21)- Snake Game Part I
 - [Day 021](https://github.com/shubhranshii/100-days-of-code-python/tree/main/day%2015-31%20Intermediate/day%2020-21)- Snake Game Part II
 - [Day 022](https://github.com/shubhranshii/100-days-of-code-python/tree/main/day%2015-31%20Intermediate/day%2022)- Pong Game Project
+- [Day 023](https://github.com/shubhranshii/100-days-of-code-python/tree/main/day%2015-31%20Intermediate/day%2023)- Turtle Crossing Game
+- [Day 024](https://github.com/shubhranshii/100-days-of-code-python/tree/main/day%2015-31%20Intermediate/day%2024)- Mail Merger Project
 
 ## Tools and Technologies
 
