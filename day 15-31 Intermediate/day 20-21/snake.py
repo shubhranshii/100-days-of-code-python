@@ -23,6 +23,13 @@ class Snake:
         for pos in START_POS:
             self.add_segment(pos)
 
+    def reset(self):
+        for seg in self.segments:
+            seg.goto(1000,1000)
+        self.segments.clear()
+        self.create_snake()
+        self.head = self.segments[0]
+        self.head_mod()
     def head_mod(self):
         self.head.color("pink")
         self.head.shape("circle")
