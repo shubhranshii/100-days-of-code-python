@@ -30,6 +30,10 @@
 - [Day 017](https://github.com/shubhranshii/100-days-of-code-python/tree/main/day%2015-31%20Intermediate/day%2017)- Quiz Game Project
 - [Day 018](https://github.com/shubhranshii/100-days-of-code-python/tree/main/day%2015-31%20Intermediate/day%2018)- Hirst Painting Project
 - [Day 019](https://github.com/shubhranshii/100-days-of-code-python/tree/main/day%2015-31%20Intermediate/day%2019)- Turtle Race Project
+- [Day 020](https://github.com/shubhranshii/100-days-of-code-python/tree/main/day%2015-31%20Intermediate/day%2020-21)- Snake Game Part I
+- [Day 021](https://github.com/shubhranshii/100-days-of-code-python/tree/main/day%2015-31%20Intermediate/day%2020-21)- Snake Game Part II
+- [Day 022](https://github.com/shubhranshii/100-days-of-code-python/tree/main/day%2015-31%20Intermediate/day%2022)- Pong Game Project
+
 ## Tools and Technologies
 
 Throughout this comprehensive course, we cover a massive amount of tools and technologies, including:
