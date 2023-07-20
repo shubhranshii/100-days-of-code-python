@@ -27,14 +27,16 @@
 ## 👩‍💻Intermediate
 - [Day 015](https://github.com/shubhranshii/100-days-of-code-python/tree/main/day%2015-31%20Intermediate/day%2015)- Coffee Machine Project
 - [Day 016](https://github.com/shubhranshii/100-days-of-code-python/tree/main/day%2015-31%20Intermediate/day%2016)- Coffee Machine OOP Project
-- [Day 017](https://github.com/shubhranshii/100-days-of-code-python/tree/main/day%2015-31%20Intermediate/day%2017)- Quiz Game Project
+- [Day 017](https://github.com/shubhranshii/100-days-of-code-python/tree/main/day%2015-31%20Intermediate/day%2017)- Quiz Game
 - [Day 018](https://github.com/shubhranshii/100-days-of-code-python/tree/main/day%2015-31%20Intermediate/day%2018)- Hirst Painting Project
 - [Day 019](https://github.com/shubhranshii/100-days-of-code-python/tree/main/day%2015-31%20Intermediate/day%2019)- Turtle Race Project
 - [Day 020](https://github.com/shubhranshii/100-days-of-code-python/tree/main/day%2015-31%20Intermediate/day%2020-21)- Snake Game Part I
 - [Day 021](https://github.com/shubhranshii/100-days-of-code-python/tree/main/day%2015-31%20Intermediate/day%2020-21)- Snake Game Part II
-- [Day 022](https://github.com/shubhranshii/100-days-of-code-python/tree/main/day%2015-31%20Intermediate/day%2022)- Pong Game Project
+- [Day 022](https://github.com/shubhranshii/100-days-of-code-python/tree/main/day%2015-31%20Intermediate/day%2022)- Pong Game
 - [Day 023](https://github.com/shubhranshii/100-days-of-code-python/tree/main/day%2015-31%20Intermediate/day%2023)- Turtle Crossing Game
 - [Day 024](https://github.com/shubhranshii/100-days-of-code-python/tree/main/day%2015-31%20Intermediate/day%2024)- Mail Merger Project
+- [Day 025](https://github.com/shubhranshii/100-days-of-code-python/tree/main/day%2015-31%20Intermediate/day%2025)- U.S. States Game
+- [Day 026](https://github.com/shubhranshii/100-days-of-code-python/tree/main/day%2015-31%20Intermediate/day%2026)- NATO Alphabet Project
 
 ## Tools and Technologies
 
