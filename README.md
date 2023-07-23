@@ -37,6 +37,11 @@
 - [Day 024](https://github.com/shubhranshii/100-days-of-code-python/tree/main/day%2015-31%20Intermediate/day%2024)- Mail Merger Project
 - [Day 025](https://github.com/shubhranshii/100-days-of-code-python/tree/main/day%2015-31%20Intermediate/day%2025)- U.S. States Game
 - [Day 026](https://github.com/shubhranshii/100-days-of-code-python/tree/main/day%2015-31%20Intermediate/day%2026)- NATO Alphabet Project
+- [Day 027](https://github.com/shubhranshii/100-days-of-code-python/tree/main/day%2015-31%20Intermediate/day%2027)- Mile to Kilometers Converter Project
+- [Day 028](https://github.com/shubhranshii/100-days-of-code-python/tree/main/day%2015-31%20Intermediate/day%2028)- Pomodoro GUI App
+- [Day 029](https://github.com/shubhranshii/100-days-of-code-python/tree/main/day%2015-31%20Intermediate/day%2029)- Password Manager GUI App
+- [Day 030](https://github.com/shubhranshii/100-days-of-code-python/tree/main/day%2015-31%20Intermediate/day%2030)- Exception Handling
+- [Day 031](https://github.com/shubhranshii/100-days-of-code-python/tree/main/day%2015-31%20Intermediate/day%2031)- Flash Card App Capstone Project
 
 ## Tools and Technologies
 
