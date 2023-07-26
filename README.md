@@ -8,7 +8,7 @@
 )
 
 
-## 👩‍💻Beginner
+## 🐣Beginner
 
 - [Day 001](https://github.com/shubhranshii/100-days-of-code-python/tree/main/day%201-14/day%201)- Band Name Generator
 - [Day 002](https://github.com/shubhranshii/100-days-of-code-python/tree/main/day%201-14/day%202)- Tip Calculator
@@ -24,7 +24,7 @@
 - [Day 012](https://github.com/shubhranshii/100-days-of-code-python/tree/main/day%201-14/day%2012)- Number Guessing Game
 - [Day 013](https://github.com/shubhranshii/100-days-of-code-python/tree/main/day%201-14/day%2013)- Debugging
 - [Day 014](https://github.com/shubhranshii/100-days-of-code-python/tree/main/day%201-14/day%2014)- Higher Lower Game Project
-## 👩‍💻Intermediate
+## 🐥Intermediate
 - [Day 015](https://github.com/shubhranshii/100-days-of-code-python/tree/main/day%2015-31%20Intermediate/day%2015)- Coffee Machine Project
 - [Day 016](https://github.com/shubhranshii/100-days-of-code-python/tree/main/day%2015-31%20Intermediate/day%2016)- Coffee Machine OOP Project
 - [Day 017](https://github.com/shubhranshii/100-days-of-code-python/tree/main/day%2015-31%20Intermediate/day%2017)- Quiz Game
@@ -42,6 +42,10 @@
 - [Day 029](https://github.com/shubhranshii/100-days-of-code-python/tree/main/day%2015-31%20Intermediate/day%2029)- Password Manager GUI App
 - [Day 030](https://github.com/shubhranshii/100-days-of-code-python/tree/main/day%2015-31%20Intermediate/day%2030)- Exception Handling
 - [Day 031](https://github.com/shubhranshii/100-days-of-code-python/tree/main/day%2015-31%20Intermediate/day%2031)- Flash Card App Capstone Project
+## 🐤Intermediate+
+- [Day 032](https://github.com/shubhranshii/100-days-of-code-python/tree/main/day%2032-57%20Intermediate%20%2B/day%2032)- Automated Birthday Wisher
+- [Day 033](https://github.com/shubhranshii/100-days-of-code-python/tree/main/day%2032-57%20Intermediate%20%2B/day%2033)- ISS Overhead Notifier
+- [Day 034](https://github.com/shubhranshii/100-days-of-code-python/tree/main/day%2032-57%20Intermediate%20%2B/day%2034)- GUI Quiz App
 
 ## Tools and Technologies
 
