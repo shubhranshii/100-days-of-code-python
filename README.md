@@ -46,6 +46,15 @@
 - [Day 032](https://github.com/shubhranshii/100-days-of-code-python/tree/main/day%2032-57%20Intermediate%20%2B/day%2032)- Automated Birthday Wisher
 - [Day 033](https://github.com/shubhranshii/100-days-of-code-python/tree/main/day%2032-57%20Intermediate%20%2B/day%2033)- ISS Overhead Notifier
 - [Day 034](https://github.com/shubhranshii/100-days-of-code-python/tree/main/day%2032-57%20Intermediate%20%2B/day%2034)- GUI Quiz App
+- [Day 035](https://github.com/shubhranshii/100-days-of-code-python/tree/main/day%2032-57%20Intermediate%20%2B/day%2035)- Rain Alert Project
+- [Day 036](https://github.com/shubhranshii/100-days-of-code-python/tree/main/day%2032-57%20Intermediate%20%2B/day%2036)- Stock Trading News Alert Project
+- [Day 037](https://github.com/shubhranshii/100-days-of-code-python/tree/main/day%2032-57%20Intermediate%20%2B/day%2037)- Habit Tracking Project
+- [Day 038](https://github.com/shubhranshii/100-days-of-code-python/tree/main/day%2032-57%20Intermediate%20%2B/day%2038)-  Workout Tracking
+- [Day 041](https://github.com/shubhranshii/100-days-of-code-python/tree/main/day%2032-57%20Intermediate%20%2B/Web%20Development%20Projects/day%2041)- Movie Ranking
+- [Day 042](https://github.com/shubhranshii/100-days-of-code-python/tree/main/day%2032-57%20Intermediate%20%2B/Web%20Development%20Projects/day%2042)- Birthday Invite Website
+- [Day 043](https://github.com/shubhranshii/100-days-of-code-python/tree/main/day%2032-57%20Intermediate%20%2B/Web%20Development%20Projects/day%2043)- Color Vocab Website
+- [Day 044](https://github.com/shubhranshii/100-days-of-code-python/tree/main/day%2032-57%20Intermediate%20%2B/Web%20Development%20Projects/day%2044)- Motivational Poster Website
+
 
 ## Tools and Technologies
 
