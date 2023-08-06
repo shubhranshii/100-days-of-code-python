@@ -2,12 +2,13 @@ import requests
 from datetime import datetime
 import smtplib
 import time
+import config
 
 MY_LAT = 25.448425
 MY_LONG = 78.568459
 
-MY_EMAIL = "shlopokesyndrome@gmail.com"
-PASSWORD = "jgiiauwtdkuttabb"
+MY_EMAIL = config.MY_EMAIL
+PASSWORD = config.PASSWORD
 
 
 def iss_overhead():
